@@ -1,166 +1,186 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "PDF-Distil: Including Prediction Disagreements in Feature-based Knowledge Distillation for Object Detection. Zhang et al. BMVC 2021 code",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 296164724,
+                "language": "Python",
+                "last_commit": "2023-01-28T10:23:28Z",
+                "owner": "zhanghengdev",
+                "repo": "MutualGuide",
+                "stars": 110
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Adversarial Knowledge Transfer from Unlabeled Data. Gupta et al. ACM-MM 2020 code",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 298456150,
+                "language": "Python",
+                "last_commit": "2022-03-17T22:48:04Z",
+                "owner": "agupt013",
+                "repo": "akt",
+                "stars": 6
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Knowledge from intermediate layers"
+        }
+      ],
       "title": "Different forms of knowledge"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "PDF-Distil: Including Prediction Disagreements in Feature-based Knowledge Distillation for Object Detection. Zhang et al. BMVC 2021 code",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Target Interest Distillation for Multi-Interest Recommendation [CIKM 2022] [Video]",
+              "description": "[Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 263284828,
+                "language": "Python",
+                "last_commit": "2026-02-11T04:35:30Z",
+                "owner": "THUwangcy",
+                "repo": "ReChorus",
+                "stars": 647
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Distill-VQ: Learning Retrieval Oriented Vector Quantization By Distilling Knowledge from Dense Embeddings[SIGIR 2022] [Code]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 460449915,
+                "language": "Python",
+                "last_commit": "2023-02-22T04:59:46Z",
+                "owner": "staoxiao",
+                "repo": "LibVQ",
+                "stars": 74
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "On-Device Next-Item Recommendation with Self-Supervised Knowledge Distillation[SIGIR 2022] [Code]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 484782047,
+                "language": "Python",
+                "last_commit": "2023-03-22T22:23:44Z",
+                "owner": "xiaxin1998",
+                "repo": "OD-Rec",
+                "stars": 15
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Unbiased Knowledge Distillation for Recommendation [WSDM 2023] [Code]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 561173017,
+                "language": "Python",
+                "last_commit": "2023-06-15T08:41:54Z",
+                "owner": "chengang95",
+                "repo": "UnKD",
+                "stars": 15
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Directed Acyclic Graph Factorization Machines for CTR Prediction via Knowledge Distillation [WSDM 2023] [Code]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 562903065,
+                "language": "Python",
+                "last_commit": "2023-03-05T01:29:29Z",
+                "owner": "RUCAIBox",
+                "repo": "DAGFM",
+                "stars": 14
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Interpolative Distillation for Unifying Biased and Debiased Recommendation [SIGIR 2022] [Video]",
+              "description": "[Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 479600474,
+                "language": "Python",
+                "last_commit": "2023-06-15T12:01:27Z",
+                "owner": "Dingseewhole",
+                "repo": "InterD_master",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Explore, Filter and Distill: Distilled Reinforcement Learning in Recommendation [CIKM 2021] [Video]",
+              "description": "[Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 398616091,
+                "language": "Python",
+                "last_commit": "2022-07-07T05:05:56Z",
+                "owner": "modriczhang",
+                "repo": "DRL-Rec",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "KDCRec: Knowledge Distillation for Counterfactual Recommendation Via Uniform Data [TKDE 2022] [Code]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 323574387,
+                "language": "Python",
+                "last_commit": "2020-12-22T09:05:02Z",
+                "owner": "dgliu",
+                "repo": "TKDE_KDCRec",
+                "stars": 3
+              }
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-01-28T10:23:28Z",
-            "owner": "zhanghengdev",
-            "repo": "MutualGuide",
-            "stars": 110
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Adversarial Knowledge Transfer from Unlabeled Data. Gupta et al. ACM-MM 2020 code",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-03-17T22:48:04Z",
-            "owner": "agupt013",
-            "repo": "akt",
-            "stars": 6
-          }
+          "node_type": "group",
+          "title": "for RecSys"
         }
       ],
-      "title": "Knowledge from intermediate layers"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Target Interest Distillation for Multi-Interest Recommendation [CIKM 2022] [Video]",
-          "description": "[Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-02-11T04:35:30Z",
-            "owner": "THUwangcy",
-            "repo": "ReChorus",
-            "stars": 647
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Distill-VQ: Learning Retrieval Oriented Vector Quantization By Distilling Knowledge from Dense Embeddings[SIGIR 2022] [Code]",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-02-22T04:59:46Z",
-            "owner": "staoxiao",
-            "repo": "LibVQ",
-            "stars": 74
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "On-Device Next-Item Recommendation with Self-Supervised Knowledge Distillation[SIGIR 2022] [Code]",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-03-22T22:23:44Z",
-            "owner": "xiaxin1998",
-            "repo": "OD-Rec",
-            "stars": 15
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Unbiased Knowledge Distillation for Recommendation [WSDM 2023] [Code]",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-06-15T08:41:54Z",
-            "owner": "chengang95",
-            "repo": "UnKD",
-            "stars": 15
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Directed Acyclic Graph Factorization Machines for CTR Prediction via Knowledge Distillation [WSDM 2023] [Code]",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-03-05T01:29:29Z",
-            "owner": "RUCAIBox",
-            "repo": "DAGFM",
-            "stars": 14
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Interpolative Distillation for Unifying Biased and Debiased Recommendation [SIGIR 2022] [Video]",
-          "description": "[Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-06-15T12:01:27Z",
-            "owner": "Dingseewhole",
-            "repo": "InterD_master",
-            "stars": 8
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Explore, Filter and Distill: Distilled Reinforcement Learning in Recommendation [CIKM 2021] [Video]",
-          "description": "[Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-07-07T05:05:56Z",
-            "owner": "modriczhang",
-            "repo": "DRL-Rec",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "KDCRec: Knowledge Distillation for Counterfactual Recommendation Via Uniform Data [TKDE 2022] [Code]",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2020-12-22T09:05:02Z",
-            "owner": "dgliu",
-            "repo": "TKDE_KDCRec",
-            "stars": 3
-          }
-        }
-      ],
-      "title": "for RecSys"
+      "title": "Application of KD"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T23:57:53.160Z",
+    "last_updated": "2026-08-19T12:08:01.432Z",
     "original_repository": "FLHonker/Awesome-Knowledge-Distillation",
+    "original_repository_id": 215734635,
     "original_repository_sha": "355fc31edad32adce81de89bf6d988d3cec69392",
     "enhanced_repository": "enhansome/enhansome-Awesome-Knowledge-Distillation",
     "enhanced_repository_description": null,
