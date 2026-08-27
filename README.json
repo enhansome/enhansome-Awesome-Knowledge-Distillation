@@ -80,21 +80,6 @@
             },
             {
               "node_type": "item",
-              "title": "On-Device Next-Item Recommendation with Self-Supervised Knowledge Distillation[SIGIR 2022] [Code]",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 484782047,
-                "language": "Python",
-                "last_commit": "2023-03-22T22:23:44Z",
-                "owner": "xiaxin1998",
-                "repo": "OD-Rec",
-                "stars": 15
-              }
-            },
-            {
-              "node_type": "item",
               "title": "Unbiased Knowledge Distillation for Recommendation [WSDM 2023] [Code]",
               "description": null,
               "children": [],
@@ -105,6 +90,21 @@
                 "last_commit": "2023-06-15T08:41:54Z",
                 "owner": "chengang95",
                 "repo": "UnKD",
+                "stars": 16
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "On-Device Next-Item Recommendation with Self-Supervised Knowledge Distillation[SIGIR 2022] [Code]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 484782047,
+                "language": "Python",
+                "last_commit": "2023-03-22T22:23:44Z",
+                "owner": "xiaxin1998",
+                "repo": "OD-Rec",
                 "stars": 15
               }
             },
@@ -178,7 +178,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T23:59:24.083Z",
+    "last_updated": "2026-08-27T05:03:38.890Z",
     "original_repository": "FLHonker/Awesome-Knowledge-Distillation",
     "original_repository_id": 215734635,
     "original_repository_sha": "355fc31edad32adce81de89bf6d988d3cec69392",

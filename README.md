@@ -687,8 +687,8 @@ other data-free model compression:
 
 1. Target Interest Distillation for Multi-Interest Recommendation \[CIKM 2022] [\[Video\]](https://dl.acm.org/doi/abs/10.1145/3511808.3557464) [\[Code\]](https://github.com/THUwangcy/ReChorus/tree/CIKM22) ⭐ 646 | 🐛 6 | 🌐 Python | 📅 2026-02-11
 2. Distill-VQ: Learning Retrieval Oriented Vector Quantization By Distilling Knowledge from Dense Embeddings\[SIGIR 2022] [\[Code\]](https://github.com/staoxiao/libvq) ⭐ 74 | 🐛 1 | 🌐 Python | 📅 2023-02-22
-3. On-Device Next-Item Recommendation with Self-Supervised Knowledge Distillation\[SIGIR 2022] [\[Code\]](https://github.com/xiaxin1998/OD-Rec) ⭐ 15 | 🐛 0 | 🌐 Python | 📅 2023-03-22
-4. Unbiased Knowledge Distillation for Recommendation \[WSDM 2023] [\[Code\]](https://github.com/chengang95/UnKD) ⭐ 15 | 🐛 2 | 🌐 Python | 📅 2023-06-15
+3. Unbiased Knowledge Distillation for Recommendation \[WSDM 2023] [\[Code\]](https://github.com/chengang95/UnKD) ⭐ 16 | 🐛 2 | 🌐 Python | 📅 2023-06-15
+4. On-Device Next-Item Recommendation with Self-Supervised Knowledge Distillation\[SIGIR 2022] [\[Code\]](https://github.com/xiaxin1998/OD-Rec) ⭐ 15 | 🐛 0 | 🌐 Python | 📅 2023-03-22
 5. Directed Acyclic Graph Factorization Machines for CTR Prediction via Knowledge Distillation \[WSDM 2023] [\[Code\]](https://github.com/rucaibox/dagfm) ⭐ 14 | 🐛 0 | 🌐 Python | 📅 2023-03-05
 6. Interpolative Distillation for Unifying Biased and Debiased Recommendation \[SIGIR 2022] [\[Video\]](https://dl.acm.org/doi/10.1145/3477495.3532002) [\[Code\]](https://github.com/Dingseewhole/InterD_master) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2023-06-15
 7. Explore, Filter and Distill: Distilled Reinforcement Learning in Recommendation \[CIKM 2021] [\[Video\]](https://dl.acm.org/doi/abs/10.1145/3459637.3481917)[\[Code\]](https://github.com/modriczhang/DRL-Rec) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2022-07-07
@@ -1025,4 +1025,4 @@ Contact: Yuang Liu (frankliu624![](https://res.cloudinary.com/flhonker/image/upl
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
