@@ -178,9 +178,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T05:03:38.890Z",
-    "original_repository": "FLHonker/Awesome-Knowledge-Distillation",
-    "original_repository_id": 215734635,
+    "last_updated": "2026-08-27T11:22:16.169Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 215734635,
+      "language": null,
+      "last_commit": "2023-05-30T09:48:48Z",
+      "owner": "FLHonker",
+      "repo": "Awesome-Knowledge-Distillation",
+      "stars": 2685
+    },
     "original_repository_sha": "355fc31edad32adce81de89bf6d988d3cec69392",
     "enhanced_repository": "enhansome/enhansome-Awesome-Knowledge-Distillation",
     "enhanced_repository_description": null,
