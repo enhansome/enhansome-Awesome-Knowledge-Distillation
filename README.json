@@ -18,7 +18,8 @@
                 "owner": "zhanghengdev",
                 "repo": "MutualGuide",
                 "stars": 110
-              }
+              },
+              "first_seen": "2026-08-28T07:04:56.245Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "agupt013",
                 "repo": "akt",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T07:04:56.245Z"
             }
           ],
           "description": null,
@@ -61,7 +63,8 @@
                 "owner": "THUwangcy",
                 "repo": "ReChorus",
                 "stars": 646
-              }
+              },
+              "first_seen": "2026-08-28T07:04:56.245Z"
             },
             {
               "node_type": "item",
@@ -76,7 +79,8 @@
                 "owner": "staoxiao",
                 "repo": "LibVQ",
                 "stars": 74
-              }
+              },
+              "first_seen": "2026-08-28T07:04:56.245Z"
             },
             {
               "node_type": "item",
@@ -91,7 +95,8 @@
                 "owner": "chengang95",
                 "repo": "UnKD",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T07:04:56.245Z"
             },
             {
               "node_type": "item",
@@ -106,7 +111,8 @@
                 "owner": "xiaxin1998",
                 "repo": "OD-Rec",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T07:04:56.245Z"
             },
             {
               "node_type": "item",
@@ -121,7 +127,8 @@
                 "owner": "RUCAIBox",
                 "repo": "DAGFM",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T07:04:56.245Z"
             },
             {
               "node_type": "item",
@@ -136,7 +143,8 @@
                 "owner": "Dingseewhole",
                 "repo": "InterD_master",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T07:04:56.245Z"
             },
             {
               "node_type": "item",
@@ -151,7 +159,8 @@
                 "owner": "modriczhang",
                 "repo": "DRL-Rec",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T07:04:56.245Z"
             },
             {
               "node_type": "item",
@@ -166,7 +175,8 @@
                 "owner": "dgliu",
                 "repo": "TKDE_KDCRec",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T07:04:56.245Z"
             }
           ],
           "description": null,
@@ -178,7 +188,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:22:16.169Z",
+    "last_updated": "2026-08-28T07:04:56.245Z",
     "original_repository_info": {
       "archived": false,
       "id": 215734635,
@@ -186,7 +196,7 @@
       "last_commit": "2023-05-30T09:48:48Z",
       "owner": "FLHonker",
       "repo": "Awesome-Knowledge-Distillation",
-      "stars": 2685
+      "stars": 2686
     },
     "original_repository_sha": "355fc31edad32adce81de89bf6d988d3cec69392",
     "enhanced_repository": "enhansome/enhansome-Awesome-Knowledge-Distillation",
