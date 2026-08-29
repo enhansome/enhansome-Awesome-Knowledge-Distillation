@@ -12,12 +12,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Localize to Classify and Classify to Localize: Mutual Guidance in Object Detection",
+                "homepage": "https://openaccess.thecvf.com/content/ACCV2020/html/Zhang_Localize_to_Classify_and_Classify_to_Localize_Mutual_Guidance_in_ACCV_2020_paper.html",
                 "id": 296164724,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-01-28T10:23:28Z",
+                "open_issues": 2,
                 "owner": "zhanghengdev",
                 "repo": "MutualGuide",
-                "stars": 110
+                "stars": 110,
+                "topics": [
+                  "deep-learning",
+                  "knowledge-distillation",
+                  "object-detection",
+                  "pytorch",
+                  "tensorrt"
+                ]
               },
               "first_seen": "2026-08-28T07:04:56.245Z"
             },
@@ -28,12 +39,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 298456150,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-03-17T22:48:04Z",
+                "open_issues": 0,
                 "owner": "agupt013",
                 "repo": "akt",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:04:56.245Z"
             }
@@ -57,12 +73,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "“Chorus” of recommendation models: a light and flexible PyTorch framework for Top-K recommendation.",
+                "homepage": null,
                 "id": 263284828,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-02-11T04:35:30Z",
+                "open_issues": 6,
                 "owner": "THUwangcy",
                 "repo": "ReChorus",
-                "stars": 646
+                "stars": 646,
+                "topics": [
+                  "framework",
+                  "pytorch",
+                  "ranking",
+                  "recommendation"
+                ]
               },
               "first_seen": "2026-08-28T07:04:56.245Z"
             },
@@ -73,12 +99,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 460449915,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-02-22T04:59:46Z",
+                "open_issues": 1,
                 "owner": "staoxiao",
                 "repo": "LibVQ",
-                "stars": 74
+                "stars": 74,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:04:56.245Z"
             },
@@ -89,12 +120,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 561173017,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-06-15T08:41:54Z",
+                "open_issues": 2,
                 "owner": "chengang95",
                 "repo": "UnKD",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:04:56.245Z"
             },
@@ -105,12 +141,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Codes for SIGIR'22 Paper 'On-Device Next-Item Recommendation with Self-Supervised Knowledge Distillation'",
+                "homepage": null,
                 "id": 484782047,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-03-22T22:23:44Z",
+                "open_issues": 0,
                 "owner": "xiaxin1998",
                 "repo": "OD-Rec",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:04:56.245Z"
             },
@@ -121,12 +162,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is the official PyTorch implementation for the paper: \"Directed Acyclic Graph Factorization Machines for CTR Prediction via Knowledge Distillation\"",
+                "homepage": null,
                 "id": 562903065,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-03-05T01:29:29Z",
+                "open_issues": 0,
                 "owner": "RUCAIBox",
                 "repo": "DAGFM",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:04:56.245Z"
             },
@@ -137,12 +183,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 479600474,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-06-15T12:01:27Z",
+                "open_issues": 0,
                 "owner": "Dingseewhole",
                 "repo": "InterD_master",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:04:56.245Z"
             },
@@ -153,12 +204,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 398616091,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-07-07T05:05:56Z",
+                "open_issues": 0,
                 "owner": "modriczhang",
                 "repo": "DRL-Rec",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "data-science",
+                  "knowledge-distillation",
+                  "machine-learning",
+                  "nerual-network",
+                  "ranking-algorithm",
+                  "recommender-system",
+                  "reinforcement-learning"
+                ]
               },
               "first_seen": "2026-08-28T07:04:56.245Z"
             },
@@ -169,12 +233,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Experiments codes for TKDE paper \"KDCRec: Knowledge Distillation for Counterfactual Recommendation via Uniform Data\"",
+                "homepage": null,
                 "id": 323574387,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2020-12-22T09:05:02Z",
+                "open_issues": 0,
                 "owner": "dgliu",
                 "repo": "TKDE_KDCRec",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:04:56.245Z"
             }
@@ -188,15 +257,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T07:04:56.245Z",
+    "last_updated": "2026-08-29T04:22:42.919Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Awesome Knowledge-Distillation. 分类整理的知识蒸馏paper(2014-2021)。",
+      "homepage": null,
       "id": 215734635,
       "language": null,
+      "license": null,
       "last_commit": "2023-05-30T09:48:48Z",
+      "open_issues": 7,
       "owner": "FLHonker",
       "repo": "Awesome-Knowledge-Distillation",
-      "stars": 2686
+      "stars": 2686,
+      "topics": [
+        "deep-learning",
+        "distillation",
+        "kd",
+        "knowldge-distillation",
+        "model-compression",
+        "transfer-learning"
+      ]
     },
     "original_repository_sha": "355fc31edad32adce81de89bf6d988d3cec69392",
     "enhanced_repository": "enhansome/enhansome-Awesome-Knowledge-Distillation",
