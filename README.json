@@ -82,7 +82,7 @@
                 "open_issues": 6,
                 "owner": "THUwangcy",
                 "repo": "ReChorus",
-                "stars": 646,
+                "stars": 647,
                 "topics": [
                   "framework",
                   "pytorch",
@@ -257,7 +257,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T01:40:26.693Z",
+    "last_updated": "2026-08-31T01:37:06.743Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Knowledge-Distillation. 分类整理的知识蒸馏paper(2014-2021)。",

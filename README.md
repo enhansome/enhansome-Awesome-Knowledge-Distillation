@@ -685,7 +685,7 @@ other data-free model compression:
 
 ### for RecSys
 
-1. Target Interest Distillation for Multi-Interest Recommendation \[CIKM 2022] [\[Video\]](https://dl.acm.org/doi/abs/10.1145/3511808.3557464) [\[Code\]](https://github.com/THUwangcy/ReChorus/tree/CIKM22) ⭐ 646 | 🐛 6 | 🌐 Python | 📅 2026-02-11
+1. Target Interest Distillation for Multi-Interest Recommendation \[CIKM 2022] [\[Video\]](https://dl.acm.org/doi/abs/10.1145/3511808.3557464) [\[Code\]](https://github.com/THUwangcy/ReChorus/tree/CIKM22) ⭐ 647 | 🐛 6 | 🌐 Python | 📅 2026-02-11
 2. Distill-VQ: Learning Retrieval Oriented Vector Quantization By Distilling Knowledge from Dense Embeddings\[SIGIR 2022] [\[Code\]](https://github.com/staoxiao/libvq) ⭐ 74 | 🐛 1 | 🌐 Python | 📅 2023-02-22
 3. Unbiased Knowledge Distillation for Recommendation \[WSDM 2023] [\[Code\]](https://github.com/chengang95/UnKD) ⭐ 16 | 🐛 2 | 🌐 Python | 📅 2023-06-15
 4. On-Device Next-Item Recommendation with Self-Supervised Knowledge Distillation\[SIGIR 2022] [\[Code\]](https://github.com/xiaxin1998/OD-Rec) ⭐ 15 | 🐛 0 | 🌐 Python | 📅 2023-03-22
@@ -1025,4 +1025,4 @@ Contact: Yuang Liu (frankliu624![](https://res.cloudinary.com/flhonker/image/upl
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
