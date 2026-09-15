@@ -129,7 +129,7 @@
                 "open_issues": 2,
                 "owner": "chengang95",
                 "repo": "UnKD",
-                "stars": 16,
+                "stars": 17,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:04:56.245Z"
@@ -257,7 +257,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T01:41:27.697Z",
+    "last_updated": "2026-09-15T01:54:42.238Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Knowledge-Distillation. 分类整理的知识蒸馏paper(2014-2021)。",
@@ -269,7 +269,7 @@
       "open_issues": 7,
       "owner": "FLHonker",
       "repo": "Awesome-Knowledge-Distillation",
-      "stars": 2689,
+      "stars": 2690,
       "topics": [
         "deep-learning",
         "distillation",
