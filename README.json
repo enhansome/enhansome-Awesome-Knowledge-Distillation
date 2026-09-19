@@ -82,7 +82,7 @@
                 "open_issues": 6,
                 "owner": "THUwangcy",
                 "repo": "ReChorus",
-                "stars": 646,
+                "stars": 645,
                 "topics": [
                   "framework",
                   "pytorch",
@@ -257,7 +257,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T01:31:17.531Z",
+    "last_updated": "2026-09-19T01:37:29.523Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Knowledge-Distillation. 分类整理的知识蒸馏paper(2014-2021)。",
@@ -269,7 +269,7 @@
       "open_issues": 7,
       "owner": "FLHonker",
       "repo": "Awesome-Knowledge-Distillation",
-      "stars": 2689,
+      "stars": 2690,
       "topics": [
         "deep-learning",
         "distillation",
