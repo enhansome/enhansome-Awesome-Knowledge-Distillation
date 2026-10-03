@@ -1,7 +1,7 @@
 # Awesome Knowledge-Distillation with stars
 
 ![counter](https://img.shields.io/badge/Number-658-green)
-[![star](https://img.shields.io/github/stars/FLHonker/Awesome-Knowledge-Distillation?label=star\&style=social)](https://github.com/FLHonker/Awesome-Knowledge-Distillation) ⭐ 2,689 | 🐛 7 | 📅 2023-05-30
+[![star](https://img.shields.io/github/stars/FLHonker/Awesome-Knowledge-Distillation?label=star\&style=social)](https://github.com/FLHonker/Awesome-Knowledge-Distillation)
 
 * [Awesome Knowledge-Distillation](#awesome-knowledge-distillation)
   * [Different forms of knowledge](#different-forms-of-knowledge)
@@ -813,7 +813,7 @@ other data-free model compression:
 
 Note: All papers' pdf can be found and downloaded on [arXiv](https://arxiv.org/search/), [Bing](https://www.bing.com) or [Google](https://www.google.com).
 
-Source: <https://github.com/FLHonker/Awesome-Knowledge-Distillation> ⭐ 2,689 | 🐛 7 | 📅 2023-05-30
+Source: <https://github.com/FLHonker/Awesome-Knowledge-Distillation>
 
 Thanks for all contributors:
 

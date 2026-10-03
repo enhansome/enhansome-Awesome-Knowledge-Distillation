@@ -8,7 +8,7 @@
             {
               "node_type": "item",
               "title": "PDF-Distil: Including Prediction Disagreements in Feature-based Knowledge Distillation for Object Detection. Zhang et al. BMVC 2021 code",
-              "description": null,
+              "description": "zhanghengdev/MutualGuide",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -35,7 +35,7 @@
             {
               "node_type": "item",
               "title": "Adversarial Knowledge Transfer from Unlabeled Data. Gupta et al. ACM-MM 2020 code",
-              "description": null,
+              "description": "agupt013/akt",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -69,7 +69,7 @@
             {
               "node_type": "item",
               "title": "Target Interest Distillation for Multi-Interest Recommendation [CIKM 2022] [Video]",
-              "description": "[Code]",
+              "description": "THUwangcy/ReChorus",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -95,7 +95,7 @@
             {
               "node_type": "item",
               "title": "Distill-VQ: Learning Retrieval Oriented Vector Quantization By Distilling Knowledge from Dense Embeddings[SIGIR 2022] [Code]",
-              "description": null,
+              "description": "staoxiao/LibVQ",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -116,7 +116,7 @@
             {
               "node_type": "item",
               "title": "Unbiased Knowledge Distillation for Recommendation [WSDM 2023] [Code]",
-              "description": null,
+              "description": "chengang95/UnKD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -137,7 +137,7 @@
             {
               "node_type": "item",
               "title": "On-Device Next-Item Recommendation with Self-Supervised Knowledge Distillation[SIGIR 2022] [Code]",
-              "description": null,
+              "description": "xiaxin1998/OD-Rec",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -158,7 +158,7 @@
             {
               "node_type": "item",
               "title": "Directed Acyclic Graph Factorization Machines for CTR Prediction via Knowledge Distillation [WSDM 2023] [Code]",
-              "description": null,
+              "description": "RUCAIBox/DAGFM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -179,7 +179,7 @@
             {
               "node_type": "item",
               "title": "Interpolative Distillation for Unifying Biased and Debiased Recommendation [SIGIR 2022] [Video]",
-              "description": "[Code]",
+              "description": "Dingseewhole/InterD_master",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -200,7 +200,7 @@
             {
               "node_type": "item",
               "title": "Explore, Filter and Distill: Distilled Reinforcement Learning in Recommendation [CIKM 2021] [Video]",
-              "description": "[Code]",
+              "description": "modriczhang/DRL-Rec",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -229,7 +229,7 @@
             {
               "node_type": "item",
               "title": "KDCRec: Knowledge Distillation for Counterfactual Recommendation Via Uniform Data [TKDE 2022] [Code]",
-              "description": null,
+              "description": "dgliu/TKDE_KDCRec",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -257,7 +257,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T02:19:34.302Z",
+    "last_updated": "2026-10-03T04:25:36.968Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Knowledge-Distillation. 分类整理的知识蒸馏paper(2014-2021)。",
