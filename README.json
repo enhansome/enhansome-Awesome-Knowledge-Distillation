@@ -257,7 +257,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T01:39:50.604Z",
+    "last_updated": "2026-10-26T01:44:19.939Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Knowledge-Distillation. 分类整理的知识蒸馏paper(2014-2021)。",
@@ -269,7 +269,7 @@
       "open_issues": 7,
       "owner": "FLHonker",
       "repo": "Awesome-Knowledge-Distillation",
-      "stars": 2692,
+      "stars": 2691,
       "topics": [
         "deep-learning",
         "distillation",
